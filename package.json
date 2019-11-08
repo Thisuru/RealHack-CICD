@@ -1,0 +1,25 @@
+{
+  "name": "ctd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealHack-2-0/CTD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealHack-2-0/CTD/issues"
+  },
+  "homepage": "https://github.com/RealHack-2-0/CTD#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.2"
+  }
+}
